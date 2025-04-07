@@ -1,6 +1,6 @@
 # Kishan Manch 🌾
 
-A FastAPI-based registration and login system using PostgreSQL, designed to be fast, secure, and scalable. Built as a foundation for apps that require user authentication.
+A FastAPI-based registration and login system using PostgreSQL, designed to be fast, secure, and scalable. 
 
 ---
 
